@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-12-18T03:39:06Z" name="Surefire suite" finished-at="2018-12-18T03:39:50Z" duration-ms="43160">
+    <groups>
+    </groups>
+    <test started-at="2018-12-18T03:39:06Z" name="Surefire test" finished-at="2018-12-18T03:39:50Z" duration-ms="43160">
+      <class name="com.my.framework.TestNGMaven.FirstTest">
+        <test-method signature="Firsttestmethod()[pri:0, instance:com.my.framework.TestNGMaven.FirstTest@16ec5519]" started-at="2018-12-18T03:39:07Z" name="Firsttestmethod" finished-at="2018-12-18T03:39:50Z" duration-ms="43049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Firsttestmethod -->
+      </class> <!-- com.my.framework.TestNGMaven.FirstTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

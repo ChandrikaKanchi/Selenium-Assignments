@@ -1,0 +1,12 @@
+<suite name="Suite1" verbose="1" >
+  
+   <test name="LoginTest" >
+    <classes>
+       <class name="com.my.framework.TestNGMaven.LoginTest">
+       <methods>
+          <exclude name="positiveLoginTest"></exclude>
+       </methods>
+       </class>
+     </classes>
+  </test>
+</suite>
